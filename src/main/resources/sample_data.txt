@@ -1,0 +1,120 @@
+Date,Agency/PMD (af_prt),Media Source (pid),Campaign (c),Impressions,Clicks,CTR,Installs,Conversion Rate,Sessions,Loyal Users,Loyal Users/Installs,Total Cost,Average eCPI
+2019-01-16,resultrix,Ad2click_int,Resultrix_Digibank_Android_Install_Networks_Ad2click_Age IncomeOK_CPSA_AllCities,N/A,6083,N/A,361,0.0593,3527,241,0.6676,N/A,N/A
+2019-01-16,resultrix,Ad2click_int,Resultrix_Digibank_Android_Install_Networks_Ad2click_Age IncomeOkCPSA_Shopping_Girl_AllCities,N/A,12003,N/A,207,0.0172,3126,138,0.6667,N/A,N/A
+2019-01-16,None,CAP,None,N/A,41,N/A,2,0.0488,31,2,1.0000,N/A,N/A
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_BigBasket_Eyeota_7Cities_30-11-18-BigBasket_2400_23-11-18,285,3,0.0105,0,0.0000,0,0,N/A,0.7752,N/A
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_BigBasket_Eyeota_7Cities_30-11-18-BigBasket_5%_Cashback_23-11-18,140,N/A,N/A,1,N/A,21,1,1.0000,0.6318,0.6318
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Corporate_Parks_21-11-18-Image Ad - C36 - 90 Sec A/C Opening - Digor & Sachin - Thums Up,9040,92,0.0102,2,0.0217,4,0,0.0000,11.2681,5.6340
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Corporate_Parks_21-11-18-Image Ad - C41 - Paperless Banking - Digor & Sachin showing phone screen,1712,29,0.0169,0,0.0000,0,0,N/A,1.7843,N/A
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Corporate_Parks_21-11-18-Video Ad - C58 - All Rounder - Sachin With 5 Phones,447,13,0.0291,0,0.0000,0,0,N/A,0.8995,N/A
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_ITPL_Kiosk_Bengaluru_31-10-18-90 Sec A/C Opening - Digor & Sachin - Thums Up,6186,64,0.0103,9,0.1406,48,4,0.4444,11.3213,1.2579
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_ITPL_Kiosk_Bengaluru_31-10-18-Gear_Carousel_9-1-19,2263,44,0.0194,3,0.0682,8,0,0.0000,1.7654,0.5885
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_ITPL_Kiosk_Bengaluru_31-10-18-ITPB_Bengaluru_Kiosk_Food_31-10-18,67,N/A,N/A,0,N/A,0,0,N/A,0.0727,N/A
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_ITPL_Kiosk_Bengaluru_31-10-18-More_to_Life_Carousel_9-1-19,1314,16,0.0122,0,0.0000,0,0,N/A,0.9581,N/A
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_Custom_Audience_PL_Traffic_26+_6Cities-Bucket_List_Bike,1302,13,0.0100,0,0.0000,0,0,N/A,3.4962,N/A
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_Custom_Audience_PL_Traffic_26+_6Cities-Bucket_List_Maps,1359,6,0.0044,0,0.0000,0,0,N/A,4.0842,N/A
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_Custom_Audience_PL_Traffic_26+_6Cities-Bucket_List_video,228,4,0.0175,0,0.0000,0,0,N/A,0.8437,N/A
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_Custom_Audience_PL_Traffic_26+_6Cities-Bucket_list_In_Budget,2492,17,0.0068,0,0.0000,0,0,N/A,7.4516,N/A
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_Custom_Audience_PL_Traffic_26+_6Cities-Pre-Qualified_Personal_Loan,392,N/A,N/A,0,N/A,0,0,N/A,0.9647,N/A
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_Eyeota_Segments_7Cities-Image Ad - C36 - 90 Sec A/C Opening - Digor & Sachin - Thums Up,31,N/A,N/A,0,N/A,0,0,N/A,0.0916,N/A
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_Eyeota_Segments_7Cities-Video Ad - C58 - All Rounder - Sachin With 5 Phones,2,N/A,N/A,0,N/A,0,0,N/A,0.0025,N/A
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_IT_Companies_Employers_5Cities-Gear_Carousel_10-1-19,1019,2,0.0020,0,0.0000,0,0,N/A,1.2268,N/A
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_IT_Companies_Employers_5Cities-Image Ad - C36 - 90 Sec A/C Opening - Digor & Sachin - Thums Up,3621,19,0.0052,1,0.0526,8,1,1.0000,3.8541,3.8541
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_IT_Companies_Employers_5Cities-Image Ad - C41 - Paperless Banking - Digor & Sachin showing phone screen,227,1,0.0044,0,0.0000,0,0,N/A,0.1614,N/A
+2019-01-16,resultrix,Facebook Ads,"Resultrix_Digibank_Android_Install_Prime_Facebook_IT_Companies_Employers_5Cities-Image Ad - C44 - Zero Balance A/C - Seasaw - One Side Digor One side ""0""",1212,5,0.0041,1,0.2000,1,0,0.0000,3.2906,3.2906
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_Lookalike_High_Income_1%_7Cities-Image Ad - C36 - 90 Sec A/C Opening - Digor & Sachin - Thums Up,11490,84,0.0073,32,0.3810,336,23,0.7188,41.6481,1.3015
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_Lookalike_High_Income_1%_7Cities-Image Ad - C41 - Paperless Banking - Digor & Sachin showing phone screen,411,3,0.0073,1,0.3333,2,0,0.0000,1.8230,1.8230
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_Lookalike_High_Income_1%_7Cities-Video Ad - C58 - All Rounder - Sachin With 5 Phones,97,1,0.0103,0,0.0000,0,0,N/A,0.2818,N/A
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_Lookalike_High_Income_1%_7Cities-Video Ad: UPI Launch - Sachin,8,N/A,N/A,0,N/A,0,0,N/A,0.0123,N/A
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_Lookalike_Quad1_1%_2Cities-Image Ad - C36 - 90 Sec A/C Opening - Digor & Sachin - Thums Up,356,5,0.0140,1,0.2000,3,0,0.0000,1.7355,1.7355
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_Lookalike_Quad1_1%_2Cities-Image Ad - C41 - Paperless Banking - Digor & Sachin showing phone screen,25,N/A,N/A,0,N/A,0,0,N/A,0.1524,N/A
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_Lookalike_Quad1_1%_2Cities-Safest_Bank_in_Asia_7-1-19,603,N/A,N/A,0,N/A,0,0,N/A,2.0836,N/A
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_Lookalike_Quad1_1%_2Cities-Video Ad - C58 - All Rounder - Sachin With 5 Phones,3,N/A,N/A,0,N/A,0,0,N/A,0.0038,N/A
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_Lookalike_Quad1_1%_6Cities-Image Ad - C36 - 90 Sec A/C Opening - Digor & Sachin - Thums Up,4889,31,0.0063,11,0.3548,83,10,0.9091,16.8877,1.5352
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_Lookalike_Quad1_1%_6Cities-Image Ad - C41 - Paperless Banking - Digor & Sachin showing phone screen,84,N/A,N/A,1,N/A,24,1,1.0000,0.3933,0.3933
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_Lookalike_Quad1_1%_6Cities-Safest_Bank_in_Asia_7-1-19,19369,50,0.0026,32,0.6400,252,16,0.5000,40.9270,1.2790
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_Lookalike_Quad1_1%_6Cities-Video Ad - C58 - All Rounder - Sachin With 5 Phones,3,N/A,N/A,0,N/A,0,0,N/A,0.0093,N/A
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_Lookalike_Quad1_1%_6Cities-Video Ad: UPI Launch - Sachin,25,N/A,N/A,0,N/A,0,0,N/A,0.0518,N/A
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_Lookalike_Quad2_1%_7Cities-7%_Interest_Rates,1015,4,0.0039,1,0.2500,2,0,0.0000,2.1098,2.1098
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_Lookalike_Quad2_1%_7Cities-Gear_Carousel_8-1-19,1299,7,0.0054,0,0.0000,0,0,N/A,4.4991,N/A
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_Lookalike_Quad2_1%_7Cities-Image Ad - C36 - 90 Sec A/C Opening - Digor & Sachin - Thums Up,18429,62,0.0034,4,0.0645,54,2,0.5000,39.7332,9.9333
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_Lookalike_Quad2_1%_7Cities-Image Ad - C41 - Paperless Banking - Digor & Sachin showing phone screen,185,1,0.0054,0,0.0000,0,0,N/A,0.6011,N/A
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_Lookalike_Quad2_1%_7Cities-More_to_Life_Carousel_8-1-19,414,1,0.0024,0,0.0000,0,0,N/A,1.1490,N/A
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_Lookalike_Quad2_1%_7Cities-Video Ad - C58 - All Rounder - Sachin With 5 Phones,1734,3,0.0017,0,0.0000,0,0,N/A,4.2048,N/A
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_Lookalike_Quad2_1%_7Cities-Video Ad: UPI Launch - Sachin,240,N/A,N/A,0,N/A,0,0,N/A,0.4528,N/A
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_Niche_7Cities-7%_Interest_Rates,126,2,0.0159,0,0.0000,0,0,N/A,0.3266,N/A
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_Niche_7Cities-Image Ad - C36 - 90 Sec A/C Opening - Digor & Sachin - Thums Up-16-01-19,611,6,0.0098,1,0.1667,3,0,0.0000,1.4705,1.4705
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_Niche_7Cities-More_to_Life_Carousel_16-01-19,93,5,0.0538,1,0.2000,1,0,0.0000,0.3245,0.3245
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_Niche_7Cities-Safest_Bank_in_Asia_16-1-19,806,13,0.0161,5,0.3846,37,2,0.4000,1.3015,0.2603
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_Remarketing_Prospect_Creation_12 Cities-90 seconds,93,N/A,N/A,0,N/A,0,0,N/A,0.4530,N/A
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_Remarketing_Prospect_Creation_12 Cities-Paperless,91,1,0.0110,0,0.0000,0,0,N/A,0.1744,N/A
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_Remarketing_digibank-Websites_7_Cities-7%_Interest_Rates,424,2,0.0047,1,0.5000,12,1,1.0000,1.2475,1.2475
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_Remarketing_digibank-Websites_7_Cities-90 seconds,14521,61,0.0042,9,0.1475,141,7,0.7778,39.3860,4.3762
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_Remarketing_digibank-Websites_7_Cities-Paperless,8169,50,0.0061,5,0.1000,48,3,0.6000,11.0634,2.2127
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_Remarketing_digibank-Websites_7_Cities-Remarketing_Gear_Carousel_9-1-19,4738,28,0.0059,1,0.0357,2,0,0.0000,13.0919,13.0919
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Prime_Facebook_Remarketing_digibank-Websites_7_Cities-Remarketing_More_to_Life_Carousel_9-1-19,1109,7,0.0063,2,0.2857,6,1,0.5000,3.7068,1.8534
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Travel_7Cities_16-11-18-Travel_Deals_16-11-18,9639,245,0.0254,12,0.0490,32,3,0.2500,13.5463,1.1289
+2019-01-16,resultrix,Facebook Ads,Resultrix_Digibank_Android_Install_Travel_7Cities_16-11-18-Travel_Offers_16-11-18,262,2,0.0076,1,0.5000,2,0,0.0000,0.4825,0.4825
+2019-01-16,resultrix,Facebook Ads,Resultrix_GSMC_Digibank_Android_Install_Prime_Facebook_Remarketing_7Cities-GSMC_Creative,8183,192,0.0235,11,0.0573,52,4,0.3636,21.0515,1.9138
+2019-01-16,None,None,None,N/A,646,N/A,24,0.0372,244,21,0.8750,N/A,N/A
+2019-01-16,None,Organic,None,N/A,N/A,N/A,5958,N/A,0,3821,0.6413,N/A,N/A
+2019-01-16,resultrix,Paisabazaar,Resultrix_Digibank_OneLink_Install_Aggregator_PaisaBazaar_CPB_SMS,N/A,76,N/A,23,0.3026,539,19,0.8261,N/A,N/A
+2019-01-16,None,Social_Twitter,Inf_1st_May,N/A,527,N/A,208,0.3947,3066,181,0.8702,N/A,N/A
+2019-01-16,resultrix,affle_int,Resultrix_Digibank_Android_Install_Networks_Affle_IncomeOK_7percent_AllCities,N/A,51708,N/A,468,0.0091,17509,313,0.6688,N/A,N/A
+2019-01-16,None,bigbasket,None,N/A,1,N/A,0,0.0000,0,0,N/A,N/A,N/A
+2019-01-16,None,bigbasket(all),None,N/A,30,N/A,2,0.0667,23,2,1.0000,N/A,N/A
+2019-01-16,None,bigbasket(playstore),None,N/A,1,N/A,0,0.0000,0,0,N/A,N/A,N/A
+2019-01-16,resultrix,collectcent_int,Resultrix_Digibank_Android_Install_Networks_Collectcent_Shopping_CPSA_Rest_Cities,N/A,158,N/A,0,0.0000,0,0,N/A,N/A,N/A
+2019-01-16,resultrix,dgm_int,DBS_RX_Android_DGM_CPW_NonIncent,N/A,27,N/A,8,0.2963,83,4,0.5000,80.0000,10.0000
+2019-01-16,resultrix,doubleclick_int,223895087,N/A,N/A,N/A,4,N/A,20,3,0.7500,N/A,N/A
+2019-01-16,resultrix,doubleclick_int,223897004,N/A,N/A,N/A,6,N/A,73,4,0.6667,N/A,N/A
+2019-01-16,resultrix,doubleclick_int,223970209,N/A,N/A,N/A,8,N/A,106,6,0.7500,N/A,N/A
+2019-01-16,resultrix,doubleclick_int,227222180,N/A,N/A,N/A,8,N/A,88,4,0.5000,N/A,N/A
+2019-01-16,resultrix,doubleclick_int,227319547,N/A,N/A,N/A,9,N/A,92,8,0.8889,N/A,N/A
+2019-01-16,resultrix,doubleclick_int,227382817,N/A,N/A,N/A,21,N/A,118,7,0.3333,N/A,N/A
+2019-01-16,resultrix,doubleclick_int,227383459,N/A,N/A,N/A,9,N/A,37,2,0.2222,N/A,N/A
+2019-01-16,resultrix,doubleclick_int,227383742,N/A,N/A,N/A,1,N/A,8,1,1.0000,N/A,N/A
+2019-01-16,resultrix,doubleclick_int,227522054,N/A,N/A,N/A,2,N/A,7,1,0.5000,N/A,N/A
+2019-01-16,resultrix,doubleclick_int,228283585,N/A,N/A,N/A,7,N/A,25,3,0.4286,N/A,N/A
+2019-01-16,resultrix,doubleclick_int,230353392,N/A,N/A,N/A,1,N/A,25,1,1.0000,N/A,N/A
+2019-01-16,resultrix,doubleclick_int,234198326,N/A,N/A,N/A,1,N/A,3,0,0.0000,N/A,N/A
+2019-01-16,resultrix,doubleclick_int,234263596,N/A,N/A,N/A,11,N/A,49,4,0.3636,N/A,N/A
+2019-01-16,resultrix,doubleclick_int,234263818,N/A,N/A,N/A,9,N/A,66,3,0.3333,N/A,N/A
+2019-01-16,resultrix,doubleclick_int,234387856,N/A,N/A,N/A,13,N/A,117,8,0.6154,N/A,N/A
+2019-01-16,resultrix,doubleclick_int,235737392,N/A,N/A,N/A,3,N/A,16,2,0.6667,N/A,N/A
+2019-01-16,resultrix,doubleclick_int,235770520,N/A,N/A,N/A,2,N/A,11,1,0.5000,N/A,N/A
+2019-01-16,resultrix,doubleclick_int,235974203,N/A,N/A,N/A,3,N/A,44,1,0.3333,N/A,N/A
+2019-01-16,resultrix,doubleclick_int,236022679,N/A,N/A,N/A,1,N/A,10,1,1.0000,N/A,N/A
+2019-01-16,resultrix,doubleclick_int,237018049,N/A,N/A,N/A,1,N/A,1,0,0.0000,N/A,N/A
+2019-01-16,resultrix,doubleclick_int,237192715,N/A,N/A,N/A,1,N/A,3,0,0.0000,N/A,N/A
+2019-01-16,resultrix,doubleclick_int,237586789,N/A,N/A,N/A,9,N/A,82,6,0.6667,N/A,N/A
+2019-01-16,resultrix,doubleclick_int,237587884,N/A,N/A,N/A,26,N/A,118,11,0.4231,N/A,N/A
+2019-01-16,resultrix,flytxt_int,Resultrix_Flytxt_CPSMS_8_Cities,N/A,2,N/A,0,0.0000,0,0,N/A,N/A,N/A
+2019-01-16,resultrix,flytxt_int,Resultrix_Flytxt_Corporate_Parks_November,N/A,11,N/A,0,0.0000,0,0,N/A,N/A,N/A
+2019-01-16,resultrix,googleadwords_int,Resultrix_Digibank_Android_Install_Prime_Google_UAC_Bangalore_Age,N/A,N/A,N/A,29,N/A,519,19,0.6552,N/A,N/A
+2019-01-16,resultrix,googleadwords_int,Resultrix_Digibank_Android_Install_Prime_Google_UAC_Bangalore_Age+Income,N/A,N/A,N/A,80,N/A,708,54,0.6750,N/A,N/A
+2019-01-16,resultrix,googleadwords_int,Resultrix_Digibank_Android_Install_Prime_Google_UAC_Chennai_Age,N/A,N/A,N/A,65,N/A,433,39,0.6000,N/A,N/A
+2019-01-16,resultrix,googleadwords_int,Resultrix_Digibank_Android_Install_Prime_Google_UAC_Delhi_Gurgaon_Age,N/A,N/A,N/A,12,N/A,85,9,0.7500,N/A,N/A
+2019-01-16,resultrix,googleadwords_int,Resultrix_Digibank_Android_Install_Prime_Google_UAC_Mumbai_Income_Ok,N/A,N/A,N/A,11,N/A,86,7,0.6364,N/A,N/A
+2019-01-16,resultrix,googleadwords_int,Resultrix_Digibank_Android_Install_Prime_Google_UAC_Mumbai_navi_Mumbai_Age,N/A,N/A,N/A,7,N/A,37,2,0.2857,N/A,N/A
+2019-01-16,resultrix,googleadwords_int,Resultrix_Digibank_Android_Install_Prime_Google_UAC_Pune_Age,N/A,N/A,N/A,15,N/A,111,9,0.6000,N/A,N/A
+2019-01-16,resultrix,googleappsearchcpc,None,N/A,N/A,N/A,11,N/A,130,9,0.8182,N/A,N/A
+2019-01-16,resultrix,googleappsearchcpc,Resultrix_Digibank_Brand_BMM,N/A,N/A,N/A,2,N/A,26,1,0.5000,N/A,N/A
+2019-01-16,resultrix,googleappsearchcpc,Resultrix_Digibank_Brand_EM,N/A,N/A,N/A,9,N/A,83,6,0.6667,N/A,N/A
+2019-01-16,resultrix,googleappsearchcpc,Resultrix_Digibank_Brand_RLSA_EM,N/A,N/A,N/A,3,N/A,45,3,1.0000,N/A,N/A
+2019-01-16,resultrix,googleappsearchcpc,Resultrix_Digibank_Generic_BMM,N/A,N/A,N/A,10,N/A,58,4,0.4000,N/A,N/A
+2019-01-16,resultrix,googleappsearchcpc,Resultrix_Digibank_Generic_EM,N/A,N/A,N/A,8,N/A,237,7,0.8750,N/A,N/A
+2019-01-16,resultrix,googleappsearchcpc,Resultrix_Digibank_Generic_RLSA_BMM,N/A,N/A,N/A,7,N/A,75,4,0.5714,N/A,N/A
+2019-01-16,resultrix,googleappsearchcpc,Resultrix_Digibank_Generic_RLSA_EM,N/A,N/A,N/A,2,N/A,58,2,1.0000,N/A,N/A
+2019-01-16,resultrix,googlesearch1,Resultrix_DBS_Digibank_Google_LP_Link,N/A,N/A,N/A,34,N/A,476,26,0.7647,N/A,N/A
+2019-01-16,resultrix,googlesearchcpcul,Resultrix_Digibank_Generic_PL_BMM,N/A,N/A,N/A,6,N/A,38,5,0.8333,N/A,N/A
+2019-01-16,resultrix,googlesearchcpcul,Resultrix_Digibank_Generic_PL_EM,N/A,N/A,N/A,1,N/A,5,1,1.0000,N/A,N/A
+2019-01-16,None,inmobi_int,InmobiBigB1,N/A,4,N/A,0,0.0000,0,0,N/A,N/A,N/A
+2019-01-16,None,paisabazaar_int,dbs_cpa_0,N/A,5,N/A,0,0.0000,0,0,N/A,N/A,N/A
+2019-01-16,None,paisabazaar_int,dbs_cpa_1,N/A,8,N/A,0,0.0000,0,0,N/A,N/A,N/A
+2019-01-16,None,paisabazaar_int,dbs_cpa_2,N/A,2,N/A,0,0.0000,0,0,N/A,N/A,N/A
+2019-01-16,None,sizmek_int,None,87232,393,0.0045,0,0.0000,0,0,N/A,N/A,N/A
+2019-01-16,resultrix,unsecuredloanbanner,campaignname,N/A,N/A,N/A,4,N/A,29,2,0.5000,N/A,N/A
+2019-01-16,None,wf3,ja,N/A,11,N/A,2,0.1818,9,2,1.0000,N/A,N/A
+2019-01-16,None,wf4,ja,N/A,8,N/A,4,0.5000,28,2,0.5000,N/A,N/A
+2019-01-16,resultrix,yoptimacpc,22180701,N/A,1,N/A,0,0.0000,0,0,N/A,N/A,N/A
